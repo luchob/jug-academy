@@ -1,4 +1,5 @@
 demo:
+  greeting: Hello LOCAL environment!
   env:
     lastName: "Balev"
     firstName: "Lucho"
