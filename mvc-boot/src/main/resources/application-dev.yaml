@@ -1,1 +1,6 @@
 demo.greeting: Hello DEV environment!
+logging:
+  level:
+    bg.jug: TRACE
+#  file:
+#    name: logs/spring-boot-logging.log
